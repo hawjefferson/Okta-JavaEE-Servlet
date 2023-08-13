@@ -1,0 +1,7 @@
+com/demo/PublicServlet.class
+com/demo/IdToken.class
+com/demo/ProtectedServlet.class
+com/demo/CallbackServlet.class
+com/demo/ApiServlet.class
+com/demo/JwtFilter.class
+com/demo/OidcConfig.class

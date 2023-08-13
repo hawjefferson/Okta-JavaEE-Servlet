@@ -1,0 +1,7 @@
+/Users/jeffersonhaw/Downloads/auth0-jakarta-ee-oidc-example-main/src/main/java/com/demo/OidcConfig.java
+/Users/jeffersonhaw/Downloads/auth0-jakarta-ee-oidc-example-main/src/main/java/com/demo/CallbackServlet.java
+/Users/jeffersonhaw/Downloads/auth0-jakarta-ee-oidc-example-main/src/main/java/com/demo/ProtectedServlet.java
+/Users/jeffersonhaw/Downloads/auth0-jakarta-ee-oidc-example-main/src/main/java/com/demo/PublicServlet.java
+/Users/jeffersonhaw/Downloads/auth0-jakarta-ee-oidc-example-main/src/main/java/com/demo/JwtFilter.java
+/Users/jeffersonhaw/Downloads/auth0-jakarta-ee-oidc-example-main/src/main/java/com/demo/IdToken.java
+/Users/jeffersonhaw/Downloads/auth0-jakarta-ee-oidc-example-main/src/main/java/com/demo/ApiServlet.java
